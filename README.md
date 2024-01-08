@@ -12,11 +12,12 @@
 3. ### 
 4. ###
 
-## Assignment 3 : Hash Tables:
+## Assignment 3 : AVL/Red-black trees , Heap :
 1. ### 
 2. ### 
 3. ### 
 4. ###
+5. ### 
 
 ## Assignment 4 : Hash Tables:
 1. ### 
