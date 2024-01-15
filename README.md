@@ -7,10 +7,10 @@
 4. ### Menu driven multi-function-BST programme
  
 ## Assignment 2 : Hash Tables:
-1. ### 
-2. ### 
-3. ### 
-4. ###
+1. ### Hash Table product_id
+2. ### Hash Table Index_no
+3. ### Hash Table - Special Anagrams
+4. ### AVL Trees 
 
 ## Assignment 3 : AVL/Red-black trees , Binary Heap  :
 1. ### 
