@@ -13,15 +13,15 @@
 4. ### AVL Trees 
 
 ## Assignment 3 : AVL/Red-black trees , Binary Heap  :
-1. ### 
-2. ### 
-3. ### 
-4. ###
-5. ### 
+1. ### AVL Tree
+2. ### AVL tree ques
+3. ### Red Black trees
+4. ### Binomial Heap
+5. ### Fibonnaci Heap
 
 ## Assignment 4 : Adjency matrix + various algorithms :
 1. ### Adjency List - Adjacency matrix question
-2. ### 
-3. ### 
-4. ###
-5. ### 
+2. ### Min spanning tree - (Kurskal's algo, Prim's Algo)
+3. ### Dijkstra's Algo
+4. ### BFS - DFS
+5. ### Negative cycle in directed graph
